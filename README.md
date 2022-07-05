@@ -1,4 +1,4 @@
-### hi, I'm Lucas and I do computer engineering, I study some programming languages to become a full stack dev.
+<h3 align="center">hi, I'm Lucas and I do computer engineering, I study some programming languages to become a full stack dev.</h3>
 <div style="display: block" align="center">
   <a href="https://github.com/lucaasbonfim">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=lucaasbonfim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
