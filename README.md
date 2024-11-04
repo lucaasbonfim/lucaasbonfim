@@ -10,7 +10,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://github.com/lucaasbonfim/lucaasbonfim/blob/main/download.png">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px" src="https://github.com/lucaasbonfim/lucaasbonfim/blob/main/download.png">
 </div>
     
 <div aling="center">
