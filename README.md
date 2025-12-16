@@ -1,21 +1,21 @@
 <h2 align="center">👋 Oi, eu sou o Lucas!</h2>
 
 <p align="center">
-  Estudante de <strong>Sistemas de Informação (CEFET/RJ)</strong> • Estagiário em <strong>QA</strong> • Apaixonado por tecnologia, dados e automação
+  Estudante de Sistemas de Informação (CEFET/RJ) • Estagiário em QA • Interesse em desenvolvimento e automação
 </p>
 
 <p align="center">
-  Atualmente atuo com <strong>testes automatizados</strong>, <strong>integrações de sistemas</strong> e <strong>análise de dados</strong>, além de desenvolver projetos pessoais focados em aplicações web e mobile.
+  Atuo com testes manuais e automatizados (UI e API), participo de rituais ágeis como dailies, e trabalho com integrações, modelagem de dados e scripts de carga/ETL, além de projetos pessoais em web e mobile.
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎓 Cursando Sistemas de Informação (7º período) no CEFET/RJ  
-- 🧪 Estagiário em **Quality Assurance (QA)**  
-- 🔄 Experiência com **testes automatizados**, **integrações**, **ETL/CDC** e validação de dados  
-- 💻 Desenvolvedor em projetos pessoais (Web, Mobile e Back-end)  
+- 🎓 Cursando Sistemas de Informação (7º período) no CEFET/RJ
+- 🧪 Estagiário em **Quality Assurance (QA)**
+- 🔄 Experiência com **testes automatizados**, **integrações**, **ETL/CDC** e validação de dados
+- 💻 Desenvolvedor em projetos pessoais (Web, Mobile e Back-end)
 - 🌌 Interessado em tecnologia, astronomia e inovação  
 - 📈 Sempre buscando evoluir tecnicamente e aprender coisas novas  
 
